@@ -1,0 +1,8 @@
+<html>
+<head></head>
+<body>
+<form action="UploadDownloadFileServlet" method="post" enctype=="multipart/form-data">
+Select file to Upload:<input type="file" name="filename"><br><input type="Submit" value="upload">
+</form>
+</body>
+</html>
